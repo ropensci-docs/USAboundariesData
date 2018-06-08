@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "a3db4fb6df98a95988df90c5131ef3365af08499",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2018-06-08 16:29:21",
+    "files": 1,
+    "merge": false,
+    "message": "Add GitHub link"
+  },
+  "remote": "https://github.com/ropensci/USAboundariesData",
+  "pkg": "USAboundariesData"
+}
