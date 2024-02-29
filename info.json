@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "064cdbcbb283f867493f81d0fff9b9ec9d9a6b08",
+    "author": "Lincoln Mullen <lincoln@lincolnmullen.com>",
+    "time": "2021-10-08 17:42:54",
+    "files": 1,
+    "merge": false,
+    "message": "Remove errant news file\n"
+  },
+  "repo": "https://github.com/ropensci/USAboundariesData",
+  "pkg": "USAboundariesData"
+}
