@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "724169e7aeb17a17b738fe6f60923662f75a28e6",
+    "author": "Jacci Ziebert <jacciziebert@gmail.com>",
+    "time": "2025-10-23T01:07:59Z",
+    "files": 6,
+    "merge": true,
+    "message": "Merge pull request #9 from ropensci/update_data\n\nmoved states_contemporary_lores.rda and updated state"
+  },
+  "repo": "https://github.com/ropensci/USAboundariesData",
+  "pkg": "USAboundariesData",
+  "time": "2026-08-30T07:18:06Z"
+}
